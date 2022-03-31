@@ -1,10 +1,10 @@
-[![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://reysmerwvr.github.io/rv-resume/)
+[![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://www.reysmervalle.com/)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][reysmervalle]
-[![](https://img.shields.io/badge/twitter-%234285F4.svg?&style=for-the-badge&logo=twitter&logoColor=white)][@ReysmerWVR]
+[![](https://img.shields.io/badge/twitter-%234285F4.svg?&style=for-the-badge&logo=twitter&logoColor=white)][@reysmerwvr]
 
 ![](js_banner.gif)
 
-### Hi there 👋🏽 I'm **Reysmer** 
+### Hi there 👋🏽 I'm **Reysmer**
 
 Thanks for visiting my Github Profile
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 -->
 
-[React]: <https://reactjs.org/>
-[Node]: <https://nodejs.org/en/>
-[@ReysmerWVR]: <http://twitter.com/ReysmerWVR>
-[reysmervalle]: <https://www.linkedin.com/in/reysmervalle/>
+[react]: https://reactjs.org/
+[node]: https://nodejs.org/en/
+[@reysmerwvr]: http://twitter.com/ReysmerWVR
+[reysmervalle]: https://www.linkedin.com/in/reysmervalle/
